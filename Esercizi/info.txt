@@ -1,0 +1,10 @@
+setupEmacs() da M2
+
+Con F12 si avvia M2
+Con F11 si eseguono i comandi
+
+Pagine interessanti dell'help:
+	Mapping over lists
+	..
+	Eliminate
+	selectInSubring
